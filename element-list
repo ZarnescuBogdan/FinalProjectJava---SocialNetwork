@@ -1,0 +1,8 @@
+module:com.example.lab4secondtry
+com.example.lab4secondtry
+com.example.lab4secondtry.Domain
+com.example.lab4secondtry.Repository
+com.example.lab4secondtry.Repository.DbRepo
+com.example.lab4secondtry.Service
+com.example.lab4secondtry.Service.config
+com.example.lab4secondtry.Utils
